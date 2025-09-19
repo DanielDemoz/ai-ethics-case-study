@@ -52,10 +52,10 @@ Another way to think about Optimus is as a child or learner. Tesla has said the 
 
 This idea is echoed in films like *A.I. Artificial Intelligence* and *Chappie*. Seeing Optimus as a digital child makes us consider its potential and its need for guidance.
 
-![Robot as a Servant](assets/robot-servant.png)
+![Robot as a Servant](assets/robot-servant.webp)
 *Figure 1: Humanoid robot as a servant. Image generated using OpenAI Sora.[6]*
 
-![Robot as a Child](assets/robot-child.png)
+![Robot as a Child](assets/robot-child.webp)
 *Figure 2: Humanoid robot as a child. Image generated using OpenAI Sora.[6]*
 
 ### 3.3 Preferred Metaphor: The Learner
